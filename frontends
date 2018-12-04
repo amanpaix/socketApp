@@ -1,0 +1,10 @@
+Single page view
+
+multipage application
+	have different pages
+		/index.html
+		/second.html
+		/third.html
+
+:q
+
